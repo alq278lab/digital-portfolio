@@ -5,6 +5,7 @@
 *Location:* New York, NY<br>
 
 <u>Summary:</u>
+
 As a data scientist with a PhD degree and 5 years of work experience (see my {ref}`content:labels:education` section), I have a deep understanding of statistical modeling, machine learning, and data visualization. My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see my {ref}`content:label:experience` section). As a data scientist with a PhD degree and 5 years of work experience (see my {ref}`content:labels:education` section), I have a deep understanding of statistical modeling, machine learning, and data visualization (more details in {ref}`content:labels:skill` section) . My career has been focused on solving complex business problems through the use of data-driven insights, and I have a proven track record of delivering measurable results (see my {ref}`content:label:experience` section). Example of my work can be found [here](/analysis_example.ipynb).
 
 (content:labels:education)=
@@ -48,6 +49,7 @@ As a data scientist with a PhD degree and 5 years of work experience (see my {re
 
 To satisfy my eagerness for knowledge, I enroll in online courses in areas of Artificial Intelligence and Software Engineering that pique my interest and undertake independent projects during my leisure hours. A few examples of such projects include:
 ````{grid}
+:gutter: 0
 
 ```{grid-item-card}
 - Microsoft Certified: Azure Data Scientist Associate
